@@ -3,25 +3,25 @@ Another Ghost
 作詞：秋元康
 作曲：前迫潤哉・Yasutaka.Ishio
 
-前奏
-「ハイ！x１４」
+<font color=green>前奏</font>
+<font color=blue>「ハイ！x１４」</font>
 Baby！
 Take me away from the shadow
 
-A番
+<font color=green>A番</font>
 ドアが開(ひら)いたのか？
 風が吹き込んで来た
-誰かの足音がする　「○○！」 
-鍵は掛けてたはずだ 「○○！」 
-静かに近づく気配 「○○！」 
+誰かの足音がする　<font color=blue>「○○！」</font> 
+鍵は掛けてたはずだ <font color=blue>「○○！」</font> 
+静かに近づく気配 <font color=blue>「○○！」</font> 
 
-B番
+<font color=green>B番</font>
 HEY！HEY！HEY！
 こんな真夜中過ぎに
 HEY！HEY！HEY！
 何をしに来た？Why here？
 
-副歌
+<font color=green>副歌</font>
 目には見えないもの
 かたちのないもの
 心の中で勝手に
@@ -39,20 +39,20 @@ HEY！HEY！HEY！
 愛を疑うゴーストに
 今　何を話せばいい？
 
-A番
+<font color=green>A番</font>
 ずっと　待っていたんだ
 こんな時が来ること
-いつも耳をそばだててた 「○○！」 
-なぜだか眠れぬ日々 「○○！」 
-予感が的中した 「○○！」 
+いつも耳をそばだててた <font color=blue>「○○！」</font> 
+なぜだか眠れぬ日々 <font color=blue>「○○！」</font> 
+予感が的中した <font color=blue>「○○！」</font> 
 
-B番
+<font color=green>B番</font>
 HEY！HEY！HEY！
 あんな別れ方して
 HEY！HEY！HEY！
 後悔したか？So What？
 
-副歌
+<font color=green>副歌</font>
 今も消えないもの
 跡が残るもの
 記憶の中で微(かす)かに
@@ -70,14 +70,14 @@ HEY！HEY！HEY！
 愛という名の錯覚に
 何をまだ怯えてるんだ？
 
-间奏
-「ハイ！x１６」
+<font color=green>间奏</font>
+<font color=blue>「ハイ！x１６」</font>
 
-C番
+<font color=green>C番</font>
 HEY！HEY！HEY！
 誰もいないよJesus！
 
-副歌
+<font color=green>副歌</font>
 目には見えないもの
 かたちのないもの
 心の中で勝手に
@@ -95,5 +95,5 @@ HEY！HEY！HEY！
 愛を疑うゴーストに
 今　何を話せばいい？
 
-尾奏
-「ハイ！x１６」
+<font color=green>尾奏</font>
+<font color=blue>「ハイ！x１６」</font>
