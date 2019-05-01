@@ -1,0 +1,19 @@
+- **行くあてのない僕たち　<font color=blue>青</font>×<font color=red>红</font>**
+- **いつかできるから今日できる　<font color=black>白</font>×<font color=black>白</font>**
+- **インフルエンサー　<font color=red>红</font>×<font color=red>红</font>**
+- **君は僕と会わない方がよかったのかな　<font color=pink>粉</font>×<font color=pink>粉</font>**
+- **急斜面　<font color=black>白</font>×<font color=black>白</font>**
+- **ごめんね ずっと…　<font color=black>白</font>×<font color=black>白</font>**
+- **嫉妬の権利　<font color=red>红</font>×<font color=red>红</font>**
+- **釣り堀　<font color=aqua>水</font>×<font color=aqua>水</font>**
+- **強がる蕾　<font color=green>绿</font>×<font color=green>绿</font>**
+- **涙がまだ悲しみだった頃　<font color=orange>橙</font>×桃**
+- **何度目の青空か？　<font color=blue>青</font>×<font color=blue>青</font>**
+- **2度目のキスから　<font color=pink>粉</font>×<font color=pink>粉</font>**
+- **乃木坂の詩　<font color=purple>紫</font>×<font color=purple>紫</font>**
+- **白米様 <font color=red>红</font>×<font color=red>红</font>**
+- **風船は生きている　<font color=black>白</font>×<font color=black>白</font>**
+- **無表情　<font color=yellow>黄</font>×<font color=red>红</font>**
+- **忘却と美学　<font color=aqua>水</font>（观众席左侧）×<font color=pink>粉</font>（观众席右侧）**
+- **ハルジオンが咲く頃　<font color=yellow>黄</font>（内场）×<font color=black>白</font>（看台）**
+
