@@ -3,7 +3,7 @@
 作詞：秋元康
 作曲：井上トモノリ
 
-※ 本首歌曲中的<font color=blue>「フー！」</font>在<font color=blue>「Sunshine、Free & Easy」</font>的后一个八拍末尾喊出。
+※ 本首歌曲中的「フー！」在「Sunshine、Free & Easy」的后一个八拍末尾喊出。
 
 <font color=green>前奏</font>
 <font color=blue>「ハイ！x１６」</font> 
