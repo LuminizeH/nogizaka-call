@@ -1,4 +1,7 @@
 # 乃木坂46 CALL 手册
+[![](https://img.shields.io/travis/luminizeh/nogizaka-call.svg)](https://www.travis-ci.org/LuminizeH/nogizaka-call)
+[![](https://img.shields.io/badge/nogizaka-suki-77348b)](https://www.nogizaka46.com)
+
 
 ## 0.项目简介
 
