@@ -15,4 +15,5 @@ script:
 - true
 
 after_success:
+- pwd
 - ssh -tt root@"$ALI_HOST" < travis_ci/run.sh
