@@ -16,4 +16,7 @@ script:
 
 after_success:
 - pwd
+- ls -al
+- ls -al travis_ci
+- tree || :
 - ssh root@"$ALI_HOST" < /home/travis/build/LuminizeH/nogizaka-call/travis_ci/run.sh
