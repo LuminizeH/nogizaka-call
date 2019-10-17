@@ -15,6 +15,7 @@ script:
 - true
 
 after_success:
+- echo "StrictHostKeyChecking no" >~/.ssh/config
 - pwd
 - ls -al
 - ls -al travis_ci
