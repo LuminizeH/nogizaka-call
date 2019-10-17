@@ -25,6 +25,11 @@
 
 如果想编写 CALL 本、对 CALL 本修改意见或者想发表自己的文章，欢迎提 pr 和 issue！ 
 
+### 4.可能感兴趣的链接
+
+1. [乃木坂 46 博客聚合](https://blog.nogi-call.cn/)
+2. [乃木坂 46 CALL 手册（旧）](https://nogi-call.cn/)
+
 ### TODO
 
 - [x] 原仓库跨账号转移
