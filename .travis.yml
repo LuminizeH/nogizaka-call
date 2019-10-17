@@ -16,4 +16,4 @@ script:
 
 after_success:
 - pwd
-- ssh root@"$ALI_HOST" < travis_ci/run.sh
+- ssh root@"$ALI_HOST" < /home/travis/build/LuminizeH/nogizaka-call/travis_ci/run.sh
