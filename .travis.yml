@@ -18,4 +18,5 @@ after_success:
 - echo "StrictHostKeyChecking no" >~/.ssh/config
 - pwd
 - ls -al
+- chmod 600 ~/.ssh/ali_travis
 - ssh -i ~/.ssh/ali_travis root@$ALI_HOST < travis_ci/run.sh
