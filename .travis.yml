@@ -14,10 +14,8 @@ before_install:
 script:
 - true
 
-addons:
-    ssh_known_hosts: $ALI_HOST
-
 after_success:
+- echo "StrictHostKeyChecking no" >~/.ssh/config
 - pwd
 - ls -al
 - ssh -i ~/.ssh/ali_travis root@$ALI_HOST < travis_ci/run.sh
