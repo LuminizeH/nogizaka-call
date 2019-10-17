@@ -1,2 +1,22 @@
 language: python
-script: true
+
+python:
+- '3.6'
+
+env:
+  global:
+    secure: I4gjhJISnaW95cNXSh4gmV924LiWRmF6PcRtcs0/hhL9GRpsP6CKsKxtmuNl83QZK/l3nolel6FLC8QOHF5TNgkt09szFZ+3IkKA8xrdrcJnhbMc/Slr5+Znhmi5K/hce3xIVnljK+6PPWPQ7aXyw98OnAq3mYruBXKY55pHKtjL7CToU+veUr1CXJSHazxeNdAAxcLHwGj1XM3B3Y7Q5LGJ7e4QqtPFO80G7Fr+W4tmkXnSI4+ddWYe8xv2vfWcE7wDZSeoAM3mzxvHqd8079XEQMEBI2TmJf8bnIRyrpSLxvjSCU3DLzEdb5aasPkjdlKsjBy0v4uY4w+A59h+5CfjbY+7jOLY5TapjdQk7WK5+K4Et8x5GLlS0CPezHbTWDCfa1VZmxxSNHWqFlUAR2TW6nkXaDYcUDRB2SRVy3fZk1CN2M0G23cH25uWwnpOV4A+kr6fzusC9kqQFx3U1DUOOKP3yLwrCv/kBnoxcP8Z2I/Cao+3QaaJoV7/6kyfuuUmem1LGAkTm5LTtIONi0DvTPCmvNFHBoTV0S/5GCj5iQIcRzrYw6Ucqksm6RzhRBwHyrxQcIlxLCGtWLHjdYtKpbC9ghmmTBwnz1+No7tswe6pdK555C+ZxlvTJS/vFY8HwVNvrJUwykgp3f5bx6+sOr7gzGioKhQHzx/fuwc=
+
+before_install:
+- openssl aes-256-cbc -K $encrypted_94e724cdc8b6_key -iv $encrypted_94e724cdc8b6_iv
+  -in ali_travis.enc -out ~/.ssh/ali_travis -d
+
+script:
+- true
+
+after_success:
+- echo "StrictHostKeyChecking no" >~/.ssh/config
+- pwd
+- ls -al
+- chmod 600 ~/.ssh/ali_travis
+- ssh -i ~/.ssh/ali_travis root@$ALI_HOST < travis_ci/run.sh
