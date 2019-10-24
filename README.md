@@ -19,7 +19,7 @@
   
 ### 2.工作方式
 
-本仓库采用 Travis CI 持续集成，发布在网站 `www.baidu.com`。
+本仓库采用 Travis CI 持续集成，发布在网站 `http://nogi-call.cn:8046`。
 
 ### 3.贡献
 
