@@ -19,7 +19,7 @@
   
 ### 2.工作方式
 
-本仓库采用 Travis CI 持续集成，发布在网站 `www.baidu.com`。
+本仓库采用 Travis CI 持续集成，发布在网站 `http://nogi-call.cn:8046`。
 
 ### 3.贡献
 
@@ -34,7 +34,7 @@
 
 - [x] 原仓库跨账号转移
 - [x] Travis CI 远程登录云主机
-- [ ] Hexo 自动生成分类、文章脚本
-- [ ] Travis CI 远程执行脚本
+- [x] Hexo 自动生成分类、文章脚本
+- [x] Travis CI 远程执行脚本
 - [ ] 去除 CALL 本中的 HTML 标签，渲染环节改在 CI/CD 中进行
 - [ ] 美化 Hexo 主题
