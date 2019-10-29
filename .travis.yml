@@ -12,9 +12,6 @@ before_install:
   -in travis_ci/ali_travis.enc -out ~/.ssh/ali_travis -d
 
 script:
-- true
-
-after_success:
 - echo "StrictHostKeyChecking no" >~/.ssh/config
 - pwd
 - ls -al
