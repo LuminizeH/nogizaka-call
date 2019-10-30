@@ -72,7 +72,7 @@ for dir in $OTHER_DIR $LYRIC_DIR; do
 			- ${tag:-${category}}
 			categories:
 			- $category
-            comments: false
+			comments: false
 			---
 			EOF
 			# 写入 Hexo 博文正文
