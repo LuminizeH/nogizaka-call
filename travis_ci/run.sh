@@ -1,4 +1,5 @@
 #!/bin/bash
+set -x
 
 echo `date` >> /root/travis_log
 
