@@ -74,7 +74,7 @@ for dir in $OTHER_DIR $LYRIC_DIR; do
 			categories:
 			- $category
 			comments: false
-            cover=$cover
+			cover: $cover
 			---
 			EOF
 			# 写入 Hexo 博文正文
