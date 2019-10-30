@@ -1,4 +1,5 @@
 #!/bin/bash
+set -x
 
 echo `date` >> /root/travis_log
 
@@ -61,7 +62,8 @@ for dir in $OTHER_DIR $LYRIC_DIR; do
 			post_title=${song_name//-/ }
 			post_date=`cat $OTHER_DIR/release_date.csv | grep $workname | cut -d ',' -f 2`
 			category=$workname
-	
+            cover=`python /tmp/get_cover.py "$workname" "$song_name" || :`
+
 			# 写入 Hexo 博文元数据		
 			cat <<- EOF > $post_file_name
 			---
@@ -72,6 +74,7 @@ for dir in $OTHER_DIR $LYRIC_DIR; do
 			categories:
 			- $category
 			comments: false
+            cover=$cover
 			---
 			EOF
 			# 写入 Hexo 博文正文
