@@ -17,7 +17,7 @@
   
 ### 2.工作方式
 
-本仓库采用 Travis CI 持续集成，发布在网站 [乃木坂 46 CALL 手册](http://nogi-call.cn:8046)。
+本仓库采用 Travis CI 持续集成，发布在网站 [乃木坂 46 CALL 手册](https://nogi-call.cn/)。
 
 ### 3.贡献
 
@@ -26,7 +26,7 @@
 ### 4.可能感兴趣的链接
 
 1. [乃木坂 46 博客聚合](https://blog.nogi-call.cn/)
-2. [乃木坂 46 CALL 手册（旧）](https://nogi-call.cn/)
+2. ~~[乃木坂 46 CALL 手册（旧）](https://nogi-call.cn/)~~
 
 ### TODO
 
