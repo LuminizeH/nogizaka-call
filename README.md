@@ -10,12 +10,10 @@
 ### 1.仓库结构
 
 - lyric 目录：编写完成的 CALL 本（.md 后缀），以专辑分类。为了便于区分，编写完成的 CALL 本名称以 `_` 为前导。
-- todo 目录：待编写的 CALL 本（已含完整歌词，只需添加 CALL）。
+- todo 目录：待编写的 CALL 本（已含完整歌词，只需添加 CALL），以及无需发表的文档。
 - others 目录:
-  - `pre_study.md`: 应援基本知识
-  - `member_color.md`: 成员应援色
-  - `member_nickname.ms`: CALL 中成员昵称
-  - `song_color.md`: 歌曲应援色
+  - `release_date.csv`: 单曲与专辑的发行日期，用来作为 CALL 本的发布日期。
+  - `其他`目录: 成员与歌曲应援色、基础知识和一些其他杂项。如果想发表自己的文章，请在这个目录下添加 Markdown 文件。
   
 ### 2.工作方式
 
@@ -38,4 +36,4 @@
 - [x] Travis CI 远程执行脚本
 - [ ] 去除 CALL 本中的 HTML 标签，渲染环节改在 CI/CD 中进行
 - [x] 美化 Hexo 主题
-- [ ] 引入博客图片功能
+- [ ] 修改原有的网站图片，定制歌曲的缩略图、顶部图（以 JSON 格式保存，由 Python 加载）

@@ -12,7 +12,7 @@ before_install:
   -in travis_ci/ali_travis.enc -out ~/.ssh/ali_travis -d
 
 script:
-- echo "StrictHostKeyChecking no" >~/.ssh/config
+- echo "StrictHostKeyChecking no" > ~/.ssh/config
 - pwd
 - ls -al
 - chmod 600 ~/.ssh/ali_travis
