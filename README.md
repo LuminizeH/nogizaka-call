@@ -34,6 +34,8 @@
 - [x] Travis CI 远程登录云主机
 - [x] Hexo 自动生成分类、文章脚本
 - [x] Travis CI 远程执行脚本
-- [ ] 去除 CALL 本中的 HTML 标签，渲染环节改在 CI/CD 中进行
 - [x] 美化 Hexo 主题
-- [ ] 修改原有的网站图片，定制歌曲的缩略图、顶部图（以 JSON 格式保存，由 Python 加载）
+- [x] 修改原有的网站图片，定制歌曲的缩略图、顶部图（以 JSON 格式保存，由 Python 加载）
+- [x] 在 ECS 中设置内网 OSS 反向代理(URL: `https://pic.nogi-call.cn/`)，在下行流量超限时手动启用
+- [ ] 细化歌曲封面设置
+- [ ] 去除 CALL 本中的 HTML 标签，渲染环节改在 CI/CD 中进行
