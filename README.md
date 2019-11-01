@@ -39,3 +39,4 @@
 - [x] 在 ECS 中设置内网 OSS 反向代理(URL: `https://pic.nogi-call.cn/`)，在下行流量超限时手动启用
 - [ ] 细化歌曲封面设置
 - [ ] 去除 CALL 本中的 HTML 标签，渲染环节改在 CI/CD 中进行
+- [ ] README 日/英版本翻译

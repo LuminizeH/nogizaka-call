@@ -62,7 +62,7 @@ for dir in $OTHER_DIR $LYRIC_DIR; do
 			post_title=${song_name//-/ }
 			post_date=`cat $OTHER_DIR/release_date.csv | grep $workname | cut -d ',' -f 2`
 			category=$workname
-			cover=`python /tmp/get_cover.py "$workname" "$song_name" || :`
+			cover=`python /tmp/get_cover.py "$workname" "$post_title" || python /tmp/get_cover.py "$workname" 123456`
 
 			# 写入 Hexo 博文元数据		
 			cat <<- EOF > $post_file_name
