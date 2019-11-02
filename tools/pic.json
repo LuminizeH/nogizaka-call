@@ -1,4 +1,10 @@
 {
+	"其他": {
+		"cover": "https://cdn.jsdelivr.net/gh/jerryc127/CDN@latest/cover/default_bg.png",
+		"items": {
+		}
+	},
+	
 	"1stSingle『ぐるぐるカーテン』": {
 		"cover": "https://ngzk.oss-cn-shanghai.aliyuncs.com/cover/1stsingle/1-a.jpg",
 		"items": {
