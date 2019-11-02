@@ -13,5 +13,3 @@ cover = data[dir]["cover"]
 if song in data[dir]["items"].keys() and len(data[dir]["items"][song]) > 0:
     cover = data[dir]["items"][song]
 print(cover)
-
-

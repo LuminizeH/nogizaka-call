@@ -4,13 +4,14 @@ set -x
 echo `date` >> /root/travis_log
 
 REPO_DIR="/root/git/nogizaka-call"
-LYRIC_DIR="/root/git/nogizaka-call/lyric"
-OTHER_DIR="/root/git/nogizaka-call/others"
+PUBLISH_DIR="/root/git/nogizaka-call/publish"
+TOOL_DIR="/root/git/nogizaka-call/tools"
 HEXO_DIR="/root/nogizaka-call"
 POST_DIR="/root/nogizaka-call/source/_posts"
 WEB_DIR="/var/www-ngzk"
 
 function discard_change() {
+	cd $REPO_DIR
 	git clean -xfd > /dev/null
 	git ls-files -d | xargs -i git checkout '{}' > /dev/null
 	git pull origin master
@@ -35,18 +36,19 @@ function hexo2nginx() {
 }
 
 # 获取最新仓库
-cd $LYRIC_DIR
+cd $REPO_ROOT
 discard_change
 
 # 查找并重命名名字包含空格的文件，方便后续处理
-cd $LYRIC_DIR
+cd $PUBLISH_DIR
 find . -name '_* *.md' -print0 | xargs -0 -I {} bash -c 'tmp="{}"; mv "${tmp}" "${tmp// /-}"'
 
 # 清除已有博文
+cd $HEXO_DIR
 hexo_clean
 
 # 生成新博文
-for dir in $OTHER_DIR $LYRIC_DIR; do
+for dir in $(ls $PUBLISH_DIR); do
 	for workname in $(ls $dir); do
 		
 		[ -d $dir/$workname ] || continue		
@@ -60,7 +62,7 @@ for dir in $OTHER_DIR $LYRIC_DIR; do
 			post_file_name=$POST_DIR/$song_name\.md
 			
 			post_title=${song_name//-/ }
-			post_date=`cat $OTHER_DIR/release_date.csv | grep $workname | cut -d ',' -f 2`
+			post_date=`cat $TOOL_DIR/release_date.csv | grep $workname | cut -d ',' -f 2`
 			category=$workname
 			cover=`python /tmp/get_cover.py "$workname" "$post_title" || python /tmp/get_cover.py "$workname" 123456`
 
@@ -89,4 +91,5 @@ cd $REPO_DIR
 discard_change
 
 # 从 Hexo public 拷贝至 web 目录
+cd $HEXO_DIR
 hexo2nginx
