@@ -16,6 +16,6 @@ script:
 - pwd
 - ls -al
 - chmod 600 ~/.ssh/ali_travis
-- sed -i '9 r others/pic.json' travis_ci/get_cover.py
+- sed -i '9 r tools/pic.json' travis_ci/get_cover.py
 - scp -i ~/.ssh/ali_travis travis_ci/get_cover.py root@$ALI_HOST:/tmp/get_cover.py
 - ssh -i ~/.ssh/ali_travis root@$ALI_HOST < travis_ci/run.sh
