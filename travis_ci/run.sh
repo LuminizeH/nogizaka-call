@@ -48,6 +48,7 @@ cd $HEXO_DIR
 hexo_clean
 
 # 生成新博文
+cd $PUBLISH_DIR
 for dir in $(ls $PUBLISH_DIR); do
 
 	cd $dir
