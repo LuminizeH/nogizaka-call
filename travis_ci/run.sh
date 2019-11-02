@@ -49,43 +49,39 @@ hexo_clean
 
 # 生成新博文
 cd $PUBLISH_DIR
-for dir in $(ls $PUBLISH_DIR); do
-
-	cd $dir
-	for workname in $(ls); do
-		
-		[ -d $dir/$workname ] || continue		
-		
-		cd $dir/$workname
-		echo "===="$workname"===="
-		for song_file_name in `find $(pwd) -name '*.md'`; do
-			song_name=`basename $song_file_name | sed -e 's/.md//g' -e 's/_//g'`
-			
-			hexo_new $song_name
-			post_file_name=$POST_DIR/$song_name\.md
-			
-			post_title=${song_name//-/ }
-			post_date=`cat $TOOL_DIR/release_date.csv | grep $workname | cut -d ',' -f 2`
-			category=$workname
-			cover=`python /tmp/get_cover.py "$workname" "$post_title" || :`
-
-			# 写入 Hexo 博文元数据		
-			cat <<- EOF > $post_file_name
-			---
-			title: $post_title
-			date: ${post_date:-`date +"%Y-%m-%d"`} 00:00:46
-			tags:
-			- ${tag:-${category}}
-			categories:
-			- $category
-			comments: false
-			cover: $cover
-			---
-			EOF
-			# 写入 Hexo 博文正文
-			cat $song_file_name >> $post_file_name
+for workname in $(ls $PUBLISH_DIR); do
 	
-		done
+	[ -d $dir/$workname ] || continue		
+	
+	cd $dir/$workname
+	echo "===="$workname"===="
+	for song_file_name in `find $(pwd) -name '*.md'`; do
+		song_name=`basename $song_file_name | sed -e 's/.md//g' -e 's/_//g'`
+		
+		hexo_new $song_name
+		post_file_name=$POST_DIR/$song_name\.md
+		
+		post_title=${song_name//-/ }
+		post_date=`cat $TOOL_DIR/release_date.csv | grep $workname | cut -d ',' -f 2`
+		category=$workname
+		cover=`python /tmp/get_cover.py "$workname" "$post_title" || :`
+
+		# 写入 Hexo 博文元数据		
+		cat <<- EOF > $post_file_name
+		---
+		title: $post_title
+		date: ${post_date:-`date +"%Y-%m-%d"`} 00:00:46
+		tags:
+		- ${tag:-${category}}
+		categories:
+		- $category
+		comments: false
+		cover: $cover
+		---
+		EOF
+		# 写入 Hexo 博文正文
+		cat $song_file_name >> $post_file_name
+
 	done
 done
 
