@@ -51,9 +51,9 @@ hexo_clean
 cd $PUBLISH_DIR
 for workname in $(ls $PUBLISH_DIR); do
 	
-	[ -d $dir/$workname ] || continue		
+	[ -d $PUBLISH_DIR/$workname ] || continue		
 	
-	cd $dir/$workname
+	cd $PUBLISH_DIR/$workname
 	echo "===="$workname"===="
 	for song_file_name in `find $(pwd) -name '*.md'`; do
 		song_name=`basename $song_file_name | sed -e 's/.md//g' -e 's/_//g'`
