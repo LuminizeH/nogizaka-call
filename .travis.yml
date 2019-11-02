@@ -15,7 +15,9 @@ script:
 - echo "StrictHostKeyChecking no" > ~/.ssh/config
 - pwd
 - ls -al
+- python tools/nfd2nfc.py 'publish'
+- python tools/nfd2nfc.py 'tools'
 - chmod 600 ~/.ssh/ali_travis
-- sed -i '9 r tools/pic.json' travis_ci/get_cover.py
-- scp -i ~/.ssh/ali_travis travis_ci/get_cover.py root@$ALI_HOST:/tmp/get_cover.py
+- sed -i '9 r tools/pic.json' tools/get_cover.py
+- scp -i ~/.ssh/ali_travis tools/get_cover.py root@$ALI_HOST:/tmp/get_cover.py
 - ssh -i ~/.ssh/ali_travis root@$ALI_HOST < travis_ci/run.sh
