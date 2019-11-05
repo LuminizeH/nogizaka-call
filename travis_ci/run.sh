@@ -79,8 +79,17 @@ for workname in $(ls $PUBLISH_DIR); do
 		cover: $cover
 		---
 		EOF
+		
 		# 写入 Hexo 博文正文
 		cat $song_file_name >> $post_file_name
+
+		# 渲染
+		sed -i \
+			-e 's#▷#<font color=green>#g' \
+			-e 's#◁#</font>#g' \
+			-e 's#▶#<font color=blue>#g' \
+			-e 's#◀#</font>#g' \
+			$post_file_name
 
 	done
 done

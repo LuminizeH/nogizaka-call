@@ -3,33 +3,33 @@ Tender days
 作詞：秋元康  
 作曲：SoichiroK・Nozomu.S  
   
-<font color=green>前奏</font>  
-<font color=blue>「ハイ！ハイ！…」</font>   
+▷前奏◁  
+▶「ハイ！ハイ！…」◀   
   
-<font color=green>A番</font>  
+▷A番◁  
 あの頃　僕らが学校帰り  
-通った溜まり場は <font color=blue>「○○！」</font>   
+通った溜まり場は ▶「○○！」◀   
 カフェなんていうしゃれたものじゃなく   
-時代遅れの喫茶店 <font color=blue>「○○！」</font>    
+時代遅れの喫茶店 ▶「○○！」◀    
 Tender days  
 Tender days  
 Tender days  
 Tender days  
   
 学生運動の英雄だったって  
-噂のマスター <font color=blue>「○○！」</font>   
+噂のマスター ▶「○○！」◀   
 難しそうな本を読みながら  
-無愛想に座ってた <font color=blue>「○○！」</font>    
+無愛想に座ってた ▶「○○！」◀    
 Tender days  
 Tender days  
 Tender days  
 Tender days  
   
-<font color=green>B番</font>  
+▷B番◁  
 いつも流れていた  
 ジョーン・バエズ  
   
-<font color=green>副歌</font>  
+▷副歌◁  
 苦いだけの  
 あのコーヒー  
 ちっとも美味しくなかったけど  
@@ -40,25 +40,25 @@ Tender days
 Tender days  
 Tender days  
   
-<font color=green>间奏</font>  
-<font color=blue>「ハイ！ハイ！…」</font>   
+▷间奏◁  
+▶「ハイ！ハイ！…」◀   
   
-<font color=green>A番</font>  
+▷A番◁  
 彼女を絶対連れて来ないのが  
-暗黙のルールで <font color=blue>「○○！」</font>   
+暗黙のルールで ▶「○○！」◀   
 些細なことで殴り合いもして   
-秘密も共有した <font color=blue>「○○！」</font>   
+秘密も共有した ▶「○○！」◀   
 Time goes by  
 Time goes by  
   
 Time goes by  
 Time goes by  
   
-<font color=green>B番</font>  
+▷B番◁  
 ダウンロードしてみた  
-バエズの<font color=blue>「ドナドナ」</font>  
+バエズの▶「ドナドナ」◀  
   
-<font color=green>副歌</font>  
+▷副歌◁  
 苦いだけの  
 あのコーヒー  
 今も時々飲みたくなる  
@@ -69,14 +69,14 @@ Time goes by
 Time goes by  
 Time goes by  
   
-<font color=green>C番</font>  
+▷C番◁  
 すれ違う学生たちを見て  
 気分はセンチメンタル  
   
-<font color=green>间奏</font>  
-<font color=blue>「ハイ！ハイ！…」</font>   
+▷间奏◁  
+▶「ハイ！ハイ！…」◀   
   
-<font color=green>副歌</font>  
+▷副歌◁  
 苦いだけの  
 あのコーヒー  
 ちっとも美味しくなかったけど  

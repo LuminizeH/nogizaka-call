@@ -3,64 +3,64 @@ Am I Loving?
 作詞：秋元康  
 作曲：山田智和  
   
-<font color=green>前奏</font>  
+▷前奏◁  
 Am I loving？　Loving？ Loving？  
   
-<font color=green>A番</font>   
-何かちょっと変なんだ <font color=blue>「○○！」</font>   
-胸の奥が苦しくて… <font color=blue>「○○！」</font>   
+▷A番◁   
+何かちょっと変なんだ ▶「○○！」◀   
+胸の奥が苦しくて… ▶「○○！」◀   
 You know, Baby？(I know, Baby？)  
-病気かも(違うでしょう) <font color=blue>「超絶可愛い！○○！」</font>   
-Maybe　熱がありそうだ <font color=blue>「○○！」</font>   
-身体中が熱くって… <font color=blue>「○○！」</font>   
+病気かも(違うでしょう) ▶「超絶可愛い！○○！」◀   
+Maybe　熱がありそうだ ▶「○○！」◀   
+身体中が熱くって… ▶「○○！」◀   
 I wonder why？(You wonder why？)  
-ぼーっとしてる(どうしちゃったの？) <font color=blue>「超絶可愛い！○○！」</font>    
+ぼーっとしてる(どうしちゃったの？) ▶「超絶可愛い！○○！」◀    
   
-<font color=green>B番</font>   
-こんな症状　初めてなんだよ <font color=blue>「オー、ハイ！」</font>×２   
-不安になるだろう(心配性なのね) <font color=blue>「オー、ハイ！」</font>×２   
+▷B番◁   
+こんな症状　初めてなんだよ ▶「オー、ハイ！」◀×２   
+不安になるだろう(心配性なのね) ▶「オー、ハイ！」◀×２   
 病院に行って　診てもらわなきゃ  
 絶対(まさか)どこか(どこが？)おかしいんだ(Things such as illness)  
   
-<font color=green>副歌</font>   
-僕は恋してるのかな？(Need you) <font color=blue>「フッフー！」</font>   
-君に恋してるのかな？(Need you) <font color=blue>「フッフー！」</font>   
-自分でもよくわからないよ(Is this real love？) <font color=blue>「ハーイハイ！ハイ！×４」</font>   
-今まで誰かのことを(Need you) <font color=blue>「フッフー！」</font>   
-好きになったことなんて(Need you) <font color=blue>「フッフー！」</font>   
+▷副歌◁   
+僕は恋してるのかな？(Need you) ▶「フッフー！」◀   
+君に恋してるのかな？(Need you) ▶「フッフー！」◀   
+自分でもよくわからないよ(Is this real love？) ▶「ハーイハイ！ハイ！×４」◀   
+今まで誰かのことを(Need you) ▶「フッフー！」◀   
+好きになったことなんて(Need you) ▶「フッフー！」◀   
 一度だってなかったんだ(Is this real love？)  
 だから明日が待ち遠しいほど　しあわせなんだ Loving  
   
-<font color=green>间奏</font>   
-I may love... <font color=blue>「ハイ！ハイ！…」</font>   
-You may love... <font color=blue>「ハイ！ハイ！…」</font>   
+▷间奏◁   
+I may love... ▶「ハイ！ハイ！…」◀   
+You may love... ▶「ハイ！ハイ！…」◀   
   
-<font color=green>A番</font>   
-何もやる気がしないんだ <font color=blue>「○○！」</font>   
-まるで宙を浮いている <font color=blue>「○○！」</font>   
+▷A番◁   
+何もやる気がしないんだ ▶「○○！」◀   
+まるで宙を浮いている ▶「○○！」◀   
 Isn't it strange？(It is strange)  
-おかしいんだ(お休みなさい) <font color=blue>「超絶可愛い！○○！」</font>   
-ずっと夢を見てるような <font color=blue>「○○！」</font>   
-お花畑歩いてる <font color=blue>「○○！」</font>   
+おかしいんだ(お休みなさい) ▶「超絶可愛い！○○！」◀   
+ずっと夢を見てるような ▶「○○！」◀   
+お花畑歩いてる ▶「○○！」◀   
 Not like me(Not like you)  
-僕らしくない(そう　確かに…) <font color=blue>「超絶可愛い！○○！」</font>   
+僕らしくない(そう　確かに…) ▶「超絶可愛い！○○！」◀   
   
-<font color=green>B番</font>   
-だけどみんな　大丈夫だって <font color=blue>「オー、ハイ！」</font>×２   
-親身にならないんだ(そのうち治るって) <font color=blue>「オー、ハイ！」</font>×２   
+▷B番◁   
+だけどみんな　大丈夫だって ▶「オー、ハイ！」◀×２   
+親身にならないんだ(そのうち治るって) ▶「オー、ハイ！」◀×２   
 医者も言ってた　薬はないって  
 食欲(急に)なくて(げっそり)痩せて来たよ(I'm a bit sick)  
   
-<font color=green>副歌</font>   
-それは恋のせいだって(Miss you) <font color=blue>「フッフー！」</font>   
-君に恋してるからだ(Miss you) <font color=blue>「フッフー！」</font>   
-ようやく原因わかったよ(I am loving) <font color=blue>「ハーイハイ！ハイ！×４」</font>   
-こんなにそう真剣に(Miss you) <font color=blue>「フッフー！」</font>   
-想い続けるなんて(Miss you) <font color=blue>「フッフー！」</font>   
+▷副歌◁   
+それは恋のせいだって(Miss you) ▶「フッフー！」◀   
+君に恋してるからだ(Miss you) ▶「フッフー！」◀   
+ようやく原因わかったよ(I am loving) ▶「ハーイハイ！ハイ！×４」◀   
+こんなにそう真剣に(Miss you) ▶「フッフー！」◀   
+想い続けるなんて(Miss you) ▶「フッフー！」◀   
 生まれて初めてのことだ(I am loving)  
 ハートにワクチン打ってなかった　ウイルスみたいに Miss you  
   
-<font color=green>C番</font>   
+▷C番◁   
 麻疹(はしか)じゃない　I bought your virus  
 知らないうち　I bought your virus  
 治りたいような  
@@ -68,15 +68,15 @@ Not like me(Not like you)
 ドキドキしてたいような心境  
 (Am I loving？)  
   
-<font color=green>副歌</font>   
-僕は恋してるのかな？(Need you) <font color=blue>「フッフー！」</font>   
-君に恋してるのかな？(Need you) <font color=blue>「フッフー！」</font>   
-自分でもよくわからないよ(Is this real love？) <font color=blue>「ハーイハイ！ハイ！×４」</font>   
-今まで誰かのことを(Need you) <font color=blue>「フッフー！」</font>   
-好きになったことなんて(Need you) <font color=blue>「フッフー！」</font>   
+▷副歌◁   
+僕は恋してるのかな？(Need you) ▶「フッフー！」◀   
+君に恋してるのかな？(Need you) ▶「フッフー！」◀   
+自分でもよくわからないよ(Is this real love？) ▶「ハーイハイ！ハイ！×４」◀   
+今まで誰かのことを(Need you) ▶「フッフー！」◀   
+好きになったことなんて(Need you) ▶「フッフー！」◀   
 一度だってなかったんだ(Is this real love？)  
 だから明日が待ち遠しいほど　しあわせなんだ Loving  
 伝染(うつ)されてしまった Miss you！  
   
-<font color=green>间奏</font>   
-<font color=blue>「ハイ！ハイ！…」</font>   
+▷间奏◁   
+▶「ハイ！ハイ！…」◀   

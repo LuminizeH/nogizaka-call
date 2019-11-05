@@ -3,25 +3,25 @@
 作詞：秋元康  
 作曲：Shusui・伊藤涼・木村篤史・ヒロイズム  
   
-<font color=green>前奏</font>  
-<font color=blue>「ハイ！ハイ！…」</font>   
+▷前奏◁  
+▶「ハイ！ハイ！…」◀   
   
-<font color=green>A番</font>  
-友情と恋愛はどう違う? <font color=blue>「○○！」</font>   
-いつになく君が熱く語ってた <font color=blue>「超絶可愛い！○○！」</font>   
-後からみんなに言われたんだ <font color=blue>「○○！」</font>   
-どうしておまえが気づいてあげないのか <font color=blue>「超絶可愛い！○○！」</font>   
+▷A番◁  
+友情と恋愛はどう違う? ▶「○○！」◀   
+いつになく君が熱く語ってた ▶「超絶可愛い！○○！」◀   
+後からみんなに言われたんだ ▶「○○！」◀   
+どうしておまえが気づいてあげないのか ▶「超絶可愛い！○○！」◀   
   
-<font color=green>B番</font>  
+▷B番◁  
 ごめんね  
-僕がよそ <font color=blue>「オー、ハイ！」</font>×２  
-見してて… <font color=blue>「オーー、ハイハイハイ！」</font>   
+僕がよそ ▶「オー、ハイ！」◀×２  
+見してて… ▶「オーー、ハイハイハイ！」◀   
 何だか  
-胸の奥が <font color=blue>「オー、ハイ！」</font>×２  
-ざわつく<font color=blue>「オーー、ハイハイハイ！」</font>  
+胸の奥が ▶「オー、ハイ！」◀×２  
+ざわつく▶「オーー、ハイハイハイ！」◀  
 南風(みなみかぜ)  
   
-<font color=green>副歌</font>  
+▷副歌◁  
 走れ!Bicycle  
 急げ!恋  
 全力でペダル漕ぐ  
@@ -34,22 +34,22 @@
 僕も君が好きなんだ  
 両思い  
   
-<font color=green>A番</font>  
-駅前の渋滞のロータリー <font color=blue>「○○！」</font>   
-君を乗せたバスが今　やっと着く <font color=blue>「超絶可愛い！○○！」</font>   
-最後のスパート　立ち漕ぎで <font color=blue>「○○！」</font>   
-君の名前をここから呼んでみる <font color=blue>「超絶可愛い！○○！」</font>   
+▷A番◁  
+駅前の渋滞のロータリー ▶「○○！」◀   
+君を乗せたバスが今　やっと着く ▶「超絶可愛い！○○！」◀   
+最後のスパート　立ち漕ぎで ▶「○○！」◀   
+君の名前をここから呼んでみる ▶「超絶可愛い！○○！」◀   
   
-<font color=green>B番</font>  
+▷B番◁  
 今さら   
-どんな顔を <font color=blue>「オー、ハイ！」</font>×２  
-しようか?<font color=blue>「オーー、ハイハイハイ！」</font>  
+どんな顔を ▶「オー、ハイ！」◀×２  
+しようか?▶「オーー、ハイハイハイ！」◀  
 ホントは   
-僕も告り <font color=blue>「オー、ハイ！」</font>×２  
-たかった<font color=blue>「オーー、ハイハイハイ！」</font>  
+僕も告り ▶「オー、ハイ！」◀×２  
+たかった▶「オーー、ハイハイハイ！」◀  
 いつからか  
   
-<font color=green>副歌</font>  
+▷副歌◁  
 止まれ!Bicycle  
 もう一度  
 時の針　巻き戻し  
@@ -62,19 +62,19 @@
 君を僕のBicycleで  
 送ろうか?  
   
-<font color=green>间奏</font>  
-<font color=blue>「ハイ！×１６」</font>   
-<font color=blue>「可愛い可愛い超可愛い！〇〇が一番可愛いよ！」</font>  
-<font color=blue>「ウー、ハイ！ウー、ハイ！ウーー、ハイ！ハイ！」</font>  
+▷间奏◁  
+▶「ハイ！×１６」◀   
+▶「可愛い可愛い超可愛い！〇〇が一番可愛いよ！」◀  
+▶「ウー、ハイ！ウー、ハイ！ウーー、ハイ！ハイ！」◀  
   
-<font color=green>C番</font>  
+▷C番◁  
 言葉にできない  
 心の独り言  
 誰もが見過ごして  
 大事なその人　失(うしな)うんだ  
-<font color=blue>「○○！」</font>   
+▶「○○！」◀   
   
-<font color=green>副歌</font>  
+▷副歌◁  
 走れ!Bicycle  
 終わる夏  
 太陽は知っている  

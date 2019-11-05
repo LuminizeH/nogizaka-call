@@ -5,82 +5,82 @@
   
 ※ 本首歌曲中的「フー！」在「Sunshine、Free & Easy」的后一个八拍末尾喊出。  
   
-<font color=green>前奏</font>  
-<font color=blue>「ハイ！x１６」</font>   
-<font color=blue>「夏だから！　やっちゃおう！」</font>   
+▷前奏◁  
+▶「ハイ！x１６」◀   
+▶「夏だから！　やっちゃおう！」◀   
   
-<font color=green>副歌</font>  
+▷副歌◁  
 夏だからやっちゃおう！  
-いつもなら躊躇してたことも  <font color=blue>「ハーイハイ！ハイ！×４」</font>   
+いつもなら躊躇してたことも  ▶「ハーイハイ！ハイ！×４」◀   
 太陽は許してくれる  
 Sunshine、Free & Easy   
-<font color=blue>「フー！」</font>   
+▶「フー！」◀   
   
-<font color=green>间奏</font>  
-<font color=blue>「ハイ！ハイ！…」</font>   
+▷间奏◁  
+▶「ハイ！ハイ！…」◀   
   
-<font color=green>A番</font>  
-みんな積極的で <font color=blue>「○○！」</font>   
-そう羨ましかった <font color=blue>「超絶可愛い！○○！」</font>   
+▷A番◁  
+みんな積極的で ▶「○○！」◀   
+そう羨ましかった ▶「超絶可愛い！○○！」◀   
 自分の気持ちに素直になれる自由と  
-勇気 <font color=blue>「ハーイハイ！ハイ！×４」</font>   
+勇気 ▶「ハーイハイ！ハイ！×４」◀   
   
-<font color=green>B番</font>  
-いくら彼が大好きでも <font color=blue>「オー、ハイ！」</font>×４  
+▷B番◁  
+いくら彼が大好きでも ▶「オー、ハイ！」◀×４  
 伝えなきゃわからない  
 恋のジレンマ  
   
-<font color=blue>「夏だから！　やっちゃおう！」</font>   
+▶「夏だから！　やっちゃおう！」◀   
   
-<font color=green>副歌</font>  
+▷副歌◁  
 夏だからやっちゃおう！  
-心に貯めてたあれもこれも… <font color=blue>「ハーイハイ！ハイ！×４」</font>   
+心に貯めてたあれもこれも… ▶「ハーイハイ！ハイ！×４」◀   
 水着より開放的に…  
-さあ、ストレートに <font color=blue>「ハーイハイ！ハイ！×４」</font>   
+さあ、ストレートに ▶「ハーイハイ！ハイ！×４」◀   
 夏だからやっちゃおう！  
-今まで躊躇してたことまで <font color=blue>「ハーイハイ！ハイ！×４」</font>   
+今まで躊躇してたことまで ▶「ハーイハイ！ハイ！×４」◀   
 太陽は許してくれる  
 Sunshine、Free & Easy  
-<font color=blue>「フー！」</font>   
+▶「フー！」◀   
   
-<font color=green>间奏</font>  
-<font color=blue>「ハイ！ハイ！…」</font>   
+▷间奏◁  
+▶「ハイ！ハイ！…」◀   
   
-<font color=green>A番</font>  
-何かきっかけがあれば <font color=blue>「○○！」</font>   
-誰でも変われるんだ <font color=blue>「超絶可愛い！○○！」</font>   
+▷A番◁  
+何かきっかけがあれば ▶「○○！」◀   
+誰でも変われるんだ ▶「超絶可愛い！○○！」◀   
 1年中で一番熱くなれる  
-シーズン <font color=blue>「ハーイハイ！ハイ！×４」</font>   
+シーズン ▶「ハーイハイ！ハイ！×４」◀   
   
-<font color=green>B番</font>  
-一人きりで悩むより <font color=blue>「オー、ハイ！」</font>×４   
+▷B番◁  
+一人きりで悩むより ▶「オー、ハイ！」◀×４   
 告白できることって  
 最高だよね  
   
-<font color=blue>「夏だから！　やっちゃおう！」</font>   
+▶「夏だから！　やっちゃおう！」◀   
   
-<font color=green>副歌</font>  
+▷副歌◁  
 夏なんだ　楽しもう！  
-打ち上げ花火のように散っても… <font color=blue>「ハーイハイ！ハイ！×４」</font>   
+打ち上げ花火のように散っても… ▶「ハーイハイ！ハイ！×４」◀   
 全力で傷ついたって  
-悔い　残らない <font color=blue>「ハーイハイ！ハイ！×４」</font>   
+悔い　残らない ▶「ハーイハイ！ハイ！×４」◀   
 夏なんだ　楽しもう！  
-臆病な自分よ生まれ変われ！ <font color=blue>「ハーイハイ！ハイ！×４」</font>   
+臆病な自分よ生まれ変われ！ ▶「ハーイハイ！ハイ！×４」◀   
 去年とはすべてが違う  
 Memories、新しい  
   
-<font color=green>间奏</font>  
-<font color=blue>「ハイ！ハイ！…」</font>   
+▷间奏◁  
+▶「ハイ！ハイ！…」◀   
   
-<font color=green>副歌</font>  
+▷副歌◁  
 夏だからやっちゃおう！  
 心に貯めてたあれもこれも…  
 水着より開放的に…  
-さあ、ストレートに <font color=blue>「ハーイハイ！ハイ！×４」</font>   
+さあ、ストレートに ▶「ハーイハイ！ハイ！×４」◀   
 夏だからやっちゃおう！  
-今まで躊躇してたことまで <font color=blue>「ハーイハイ！ハイ！×４」</font>   
+今まで躊躇してたことまで ▶「ハーイハイ！ハイ！×４」◀   
 太陽は許してくれる  
 Sunshine、Free & Easy  
   
-<font color=green>尾奏</font>  
-<font color=blue>「フッフー！」</font>×３  
+▷尾奏◁  
+▶「フッフー！」◀×３  

@@ -3,24 +3,24 @@
 作詞：秋元康  
 作曲：すみだしんや  
   
-<font color=green>前奏</font>  
-<font color=blue>「ハイ！ハイ！…」</font>  
+▷前奏◁  
+▶「ハイ！ハイ！…」◀  
   
-<font color=green>A番</font>  
+▷A番◁  
 カブリオレのルーフ  
 全開にしちゃって  
-首都高　湾岸線を走る <font color=blue>「○○！」</font>   
+首都高　湾岸線を走る ▶「○○！」◀   
 爆音で流すソウルミュージックさえ  
-風向き次第でやさしく聴こえる <font color=blue>「○○！」</font>   
+風向き次第でやさしく聴こえる ▶「○○！」◀   
   
-<font color=green>B番</font>  
+▷B番◁  
 飛行機が青空横切ってく  
 東京BAY  
 永遠なんてどこにもない  
 時間(とき)は何事もなく進むよ  
 Why don't you fly away  
   
-<font color=green>副歌</font>  
+▷副歌◁  
 意外BREAK  
 大丈夫かもね  
 たかが　恋の一つ終わったくらいで  
@@ -35,21 +35,21 @@ All right　どこかへ着くだろう
 思い出　振り切れそう  
 サヨナラ  
   
-<font color=green>A番</font>  
+▷A番◁  
 サングラス掛けなきゃ  
 コンソールボックス  
-手探りで見つけ出したんだ <font color=blue>「○○！」</font>   
+手探りで見つけ出したんだ ▶「○○！」◀   
 涙じゃなくて太陽のせい  
-切なさ以上に冷静な自分 <font color=blue>「○○！」</font>   
+切なさ以上に冷静な自分 ▶「○○！」◀   
   
-<font color=green>B番</font>  
+▷B番◁  
 この橋を渡れば感じるだろう  
 Summer breeze  
 心　全部流されちゃえ  
 愛は無責任な感情って奴  
 But I don't think so  
   
-<font color=green>副歌</font>  
+▷副歌◁  
 孤独DRIVE  
 大したことない  
 あんな男一人　別れたくらいで  
@@ -64,10 +64,10 @@ But I don't think so
 どこかで待ってるだろう  
 ソノウチ  
   
-<font color=green>间奏</font>  
-<font color=blue>「ハイ！ハイ！…」</font>   
+▷间奏◁  
+▶「ハイ！ハイ！…」◀   
   
-<font color=green>副歌</font>  
+▷副歌◁  
 意外BREAK  
 大丈夫かもね  
 たかが　恋の一つ終わったくらいで  
@@ -82,5 +82,5 @@ All right　どこかへ着くだろう
 思い出　振り切れそう  
 サヨナラ  
   
-<font color=green>尾奏</font>  
-<font color=blue>「ハイ！ハイ！…」</font>   
+▷尾奏◁  
+▶「ハイ！ハイ！…」◀   

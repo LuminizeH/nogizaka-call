@@ -6,11 +6,11 @@ Sing Out！
 ※ 本首歌曲没有call。  
 ※ 全曲拍手。  
   
-<font color=green>前奏</font>   
+▷前奏◁   
 LA LA LA LA LA LA...  
 Happy！Happy！If you wanna bring big smiles, sing out！  
   
-<font color=green>A番</font>   
+▷A番◁   
 世界は広すぎて  
 見渡せない  
 青空はどこまで続くのか？  
@@ -18,7 +18,7 @@ Happy！Happy！If you wanna bring big smiles, sing out！
 晴れてるのか？  
 それとも土砂降りの雨か？  
   
-<font color=green>B番</font>   
+▷B番◁   
 ここにいない誰かのために  
 今　何ができるのだろう  
 みんなが思えたらいい  
@@ -26,19 +26,19 @@ Happy！Happy！If you wanna bring big smiles, sing out！
 少しずつ分け合えば  
 笑顔は広がる  
   
-<font color=green>副歌</font>   
+▷副歌◁   
 この想い届け　Clap your hands  
 風に乗って飛んで行け　愛の歌  
 一人ぼっちじゃないんだよ  
 Say hello！Say hello！Say hello！  
   
-<font color=green>间奏</font>   
+▷间奏◁   
 LA LA LA LA LA LA...  
 Happy！Happy！Everybody be happy！  
 LA LA LA LA LA LA...  
 Happy！Happy！If you wanna bring big smiles, sing out！  
   
-<font color=green>A番</font>   
+▷A番◁   
 もし泣いてる人が  
 どこかにいても  
 理由(わけ)なんか聞いたって意味がない  
@@ -46,7 +46,7 @@ Happy！Happy！If you wanna bring big smiles, sing out！
 そう簡単に  
 分かり合えるわけないだろう  
   
-<font color=green>B番</font>   
+▷B番◁   
 ただじっと風に吹かれて  
 同じ空　見上げるように  
 一緒にいてあげればいい  
@@ -54,13 +54,13 @@ Happy！Happy！If you wanna bring big smiles, sing out！
 温もりが欲しくなる  
 孤独はつらいよ  
   
-<font color=green>副歌</font>   
+▷副歌◁   
 僕たちはここだ　Stomp your feet  
 存在に気づくように踏み鳴らせ！  
 仲間の声が聴こえるか？  
 Bring peace！Bring peace！Bring peace！  
   
-<font color=green>C番</font>   
+▷C番◁   
 ここにいない誰かもいつか  
 大声で歌う日が来る  
 知らない誰かのために…  
@@ -68,7 +68,7 @@ Bring peace！Bring peace！Bring peace！
 お互いに支え合って  
 前向いて行こう  
   
-<font color=green>副歌</font>   
+▷副歌◁   
 この想い届け　Clap your hands  
 風に乗って飛んで行け　愛の歌  
 一人ぼっちじゃないんだよ  
@@ -79,7 +79,7 @@ Say hello！Say hello！Say hello！
 仲間の声が聴こえるか？  
 Bring peace！Bring peace！Bring peace！  
   
-<font color=green>尾奏</font>   
+▷尾奏◁   
 LA LA LA LA LA LA...  
 Happy！Happy！Everybody be happy！  
 LA LA LA LA LA LA...  

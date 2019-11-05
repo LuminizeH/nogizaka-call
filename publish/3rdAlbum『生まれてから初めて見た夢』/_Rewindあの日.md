@@ -3,17 +3,17 @@ Rewindあの日
 作詞：秋元康  
 作曲：藤木テツ  
   
-<font color=green>前奏</font>  
-<font color=blue>「ハイ！x１６」</font>   
+▷前奏◁  
+▶「ハイ！x１６」◀   
   
-<font color=green>A番</font>  
+▷A番◁  
 夜明け近く　湾岸線を  
 流れてる赤いテール  
 動脈みたい  
 どこか行くなら  
 連れて行きなさい  
   
-<font color=green>B番</font>  
+▷B番◁  
 車　走る  
 車　急ぐ  
 私を置いてくつもり？  
@@ -22,24 +22,24 @@ Rewindあの日
 助手席　窓を開けて  
 今　何を捨てた？  
   
-<font color=green>副歌</font>  
+▷副歌◁  
 恋は跡を濁して去った  
 綺麗事じゃないのね  
 傷つき方が上手になって  
 出会う前に戻っただけ  
 Rewindあの日  
   
-<font color=green>间奏</font>  
-<font color=blue>「ハイ！x８」</font>   
+▷间奏◁  
+▶「ハイ！x８」◀   
   
-<font color=green>A番</font>  
+▷A番◁  
 白む空が眩(まぶ)しすぎるよ  
 渋滞が始まったら  
 心臓発作  
 別の道なんて  
 言い訳するつもり？  
   
-<font color=green>B番</font>  
+▷B番◁  
 風が　吹いて  
 風が　語る  
 あなたの深層心理  
@@ -48,17 +48,17 @@ Rewindあの日
 夢なんか見たくない  
 もう疲れたのね  
   
-<font color=green>副歌</font>  
+▷副歌◁  
 恋はいつもいきなり終わる  
 心変わり気づかず  
 自信過剰に自惚れてたら  
 急に頭　痛くなった  
 Rewindいつか  
   
-<font color=green>间奏</font>  
-<font color=blue>「ハイ！ハイ！…」</font>   
+▷间奏◁  
+▶「ハイ！ハイ！…」◀   
   
-<font color=green>B番</font>  
+▷B番◁  
 車　走る  
 車　急ぐ  
 お別れ　ジャンクション  
@@ -66,19 +66,19 @@ Rewindいつか
 車　逃げる  
 一目散  
   
-<font color=green>C番</font>  
+▷C番◁  
 重たい女だと  
 噂されたくない  
 心外よ  
 思い出なんか  
 塩まいて　Good-bye  
   
-<font color=green>副歌</font>  
+▷副歌◁  
 恋は跡を濁して去った  
 綺麗事じゃないのね  
 傷つき方が上手になって  
 出会う前に戻っただけ  
 Rewindあの日  
   
-<font color=green>尾奏</font>  
-<font color=blue>「ハイ！x１６」</font>   
+▷尾奏◁  
+▶「ハイ！x１６」◀   
