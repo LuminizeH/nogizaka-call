@@ -89,6 +89,7 @@ for workname in $(ls $PUBLISH_DIR); do
 			-e 's#◁#</font>#g' \
 			-e 's#▶#<font color=blue>#g' \
 			-e 's#◀#</font>#g' \
+			-e 's#^※(.*)#<font color=purple>\1</font>#g' \
 			$post_file_name
 
 	done
