@@ -84,7 +84,7 @@ for workname in $(ls $PUBLISH_DIR); do
 		cat $song_file_name >> $post_file_name
 
 		# 渲染
-		sed -i \
+		sed -i -E \
 			-e 's#▷#<font color=green>#g' \
 			-e 's#◁#</font>#g' \
 			-e 's#▶#<font color=blue>#g' \
