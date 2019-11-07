@@ -44,6 +44,6 @@
 - [x] 修改原有的网站图片，定制歌曲的缩略图、顶部图（以 JSON 格式保存，由 Python 加载）
 - [x] 在 ECS 中设置内网 OSS 反向代理(URL: `https://pic.nogi-call.cn/`)，在下行流量超限时手动启用
 - [x] 细化歌曲封面设置
-- [ ] 去除 CALL 本中的 HTML 标签，渲染环节改在 CI/CD 中进行
+- [x] 去除 CALL 本中的 HTML 标签，渲染环节改在 CI/CD 中进行
 - [ ] README 日/英版本翻译
 - [ ] :warning:同时触发多个 pipeline 会导致重复生成文章
