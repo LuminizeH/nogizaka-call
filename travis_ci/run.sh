@@ -58,7 +58,7 @@ for workname in $(ls $PUBLISH_DIR); do
 	for song_file_name in `find $(pwd) -name '*.md'`; do
 		song_name=`basename $song_file_name | sed -e 's/.md//g' -e 's/_//g'`
 		
-		post_file_name=`hexo_new $song_name | awk '{print $3}'`
+		post_file_name=`hexo_new $song_name | awk '{print $3}' | sed 's#~#/root#'`
 		post_title=${song_name//-/ }
 		post_date=`cat $TOOL_DIR/release_date.csv | grep $workname | cut -d ',' -f 2`
 		category=$workname
